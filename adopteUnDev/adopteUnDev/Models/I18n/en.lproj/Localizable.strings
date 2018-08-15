@@ -1,0 +1,13 @@
+/* 
+  localizable.strings
+  adopteUnDev
+
+  Created by Badr Choukri on 15/08/2018.
+  Copyright © 2018 Badr Choukri. All rights reserved.
+*/
+
+
+"pullToRefresh"  = "Please wait";
+"placeHolderSearch" = "Search";
+"noInternetTitle" = "Oups";
+"noInternetDetails" = "Are you connect to internet ?";

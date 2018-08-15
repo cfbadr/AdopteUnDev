@@ -1,0 +1,28 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "1fA-5z-G9Q"; */
+"1fA-5z-G9Q.text" = "0";
+
+/* Class = "UILabel"; text = "Nombre de followers"; ObjectID = "9q4-KA-PHY"; */
+"9q4-KA-PHY.text" = "Number of Followers";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DOf-VB-xE2"; */
+"DOf-VB-xE2.text" = "Label";
+
+/* Class = "UILabel"; text = "Entreprise"; ObjectID = "HlV-aF-aY2"; */
+"HlV-aF-aY2.text" = "Company";
+
+/* Class = "UILabel"; text = "Nombre de follows"; ObjectID = "Tpg-lg-YwN"; */
+"Tpg-lg-YwN.text" = "Number of followings
+";
+
+/* Class = "UIButton"; normalTitle = "Plus d'information ?"; ObjectID = "Yit-d9-fUk"; */
+"Yit-d9-fUk.normalTitle" = "More details ?";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "epH-Vl-7nC"; */
+"epH-Vl-7nC.text" = "0";
+
+/* Class = "UILabel"; text = "cfbadr"; ObjectID = "iNl-6n-0nE"; */
+"iNl-6n-0nE.text" = "cfbadr";
+
+/* Class = "UIBarButtonItem"; title = "Retour"; ObjectID = "zWi-fh-qRc"; */
+"zWi-fh-qRc.title" = "Back";
